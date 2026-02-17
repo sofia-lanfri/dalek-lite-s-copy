@@ -15,6 +15,7 @@ build*.txt
 .aider*
 .verus-solver-log
 .verus-log
+.verilib/
 
 # Generated charts and website assets (generated in CI)
 outputs/*.png
